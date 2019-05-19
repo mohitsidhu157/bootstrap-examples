@@ -1,0 +1,14 @@
+body{ 
+    background: url("coffee2.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    padding-top: 20%;
+    color: aliceblue;
+    font-family: 'Revalia', cursive;
+    letter-spacing: -.05em;
+}
+img{
+    height:100px;
+    width : 200px;
+}

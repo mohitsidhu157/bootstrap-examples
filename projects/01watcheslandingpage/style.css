@@ -1,0 +1,10 @@
+body{
+    background: url("watch.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+h3{
+    color : white;
+    font-family: 'Revalia', cursive;
+    letter-spacing : -.05em;
+    line-height: 1.2em;
+}
