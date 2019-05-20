@@ -1,0 +1,28 @@
+body{
+    background : url("computerbg.png") no-repeat center center fixed;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.con{
+   
+    height : 91vh
+}
+.gray{
+    background: gray
+}
+.gr{
+    background-color: orange;
+}
+.rowHeight{
+    height : 200px
+}
+img{
+    height: 300px;
+    width: 300px
+}
+.footer{
+    background-color: #fff;
+    bottom: 0;
+    position: fixed;
+    background-size: cover;
+    margin: 0 0 0 0;
+}
